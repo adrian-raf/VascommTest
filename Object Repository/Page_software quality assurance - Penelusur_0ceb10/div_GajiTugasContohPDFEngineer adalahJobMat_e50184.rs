@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GajiTugasContohPDFEngineer adalahJobMat_e50184</name>
+   <tag></tag>
+   <elementGuidId>879bb8e4-7bed-45aa-b6cf-65809fce5d0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.zp6Lyf.FpfXM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hdtb-sc']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b808fe9-a928-4adc-9019-32f2e8960493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jscontroller</name>
+      <type>Main</type>
+      <value>fcDBE</value>
+      <webElementGuid>c3aede8d-4f8a-443e-bba8-6f83aa1cdf11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>QcAYrd</value>
+      <webElementGuid>35bc7cc8-e1fa-49a0-bdcd-cdddd696ee2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zp6Lyf FpfXM</value>
+      <webElementGuid>0a9d764d-8ef0-47a3-9d47-c237992605d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>rcuQ6b:npT2md</value>
+      <webElementGuid>03a38e05-e6dc-4e65-8fdf-48ff4e21b325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GajiTugasContohPDFEngineer adalahJobMateriPptElemen elemen</value>
+      <webElementGuid>8852366c-b3a0-4c3d-a752-c93b40d9e8d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hdtb-sc&quot;)/div[@class=&quot;PHj8of J1AhHd&quot;]/div[@class=&quot;zp6Lyf FpfXM&quot;]</value>
+      <webElementGuid>a26f70b7-9aa1-48dc-af46-a6584dd5516f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hdtb-sc']/div/div[2]</value>
+      <webElementGuid>8fc40409-d7c8-4a5e-b459-f33cf3b58f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alat'])[1]/following::div[1]</value>
+      <webElementGuid>b3e33be8-6828-45b9-b4ac-09d9ea566c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuangan'])[1]/following::div[3]</value>
+      <webElementGuid>096f32bb-9dce-4f67-8362-032783cb5c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>5f816cc4-9312-4e39-b701-b2965085c781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GajiTugasContohPDFEngineer adalahJobMateriPptElemen elemen' or . = 'GajiTugasContohPDFEngineer adalahJobMateriPptElemen elemen')]</value>
+      <webElementGuid>ed1470d7-3423-4e77-88b3-1954ffc2f8e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

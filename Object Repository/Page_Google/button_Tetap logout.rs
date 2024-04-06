@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tetap logout</name>
+   <tag></tag>
+   <elementGuidId>e72c948a-7d14-4c69-9e34-33cf1380f60a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.M6CB1c.rr4y5c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8df36156-dfa5-4bf9-8077-baa0389ee085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tetap logout</value>
+      <webElementGuid>5de46b0f-1c38-4adb-8e3b-1932e48a8846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>M6CB1c rr4y5c</value>
+      <webElementGuid>901064d5-8ab2-420d-8263-115d76855f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>ZUkOIc</value>
+      <webElementGuid>952cf696-ea54-42de-9e1d-4ac99c526d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jslog</name>
+      <type>Main</type>
+      <value>71121; track:click;</value>
+      <webElementGuid>8aaa665b-bf4a-4064-ae9b-2bfc6be7ece9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>n</value>
+      <webElementGuid>8e8d05a7-fb7e-4873-8bc3-b5c695072500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tetap logout</value>
+      <webElementGuid>8258540b-67c1-411d-ba13-138cf1360ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;WrcADd&quot;]/div[@class=&quot;vQ43Ie&quot;]/div[@class=&quot;eboQFe&quot;]/div[@class=&quot;DRc6kd bdn4dc&quot;]/div[@class=&quot;QlyBfb&quot;]/button[@class=&quot;M6CB1c rr4y5c&quot;]</value>
+      <webElementGuid>bf0aea69-c0bb-4a6c-aae1-8d5417b54e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Google/iframe_Login_callout</value>
+      <webElementGuid>d8216306-7a44-44b4-b23b-5040838c6641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>945998d0-a1b3-4854-a4f5-f85b46faca76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan dan amankan sandi Anda dengan Akun Google Anda'])[1]/following::button[1]</value>
+      <webElementGuid>764e878b-4d81-4cc8-92bc-fc045d612226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login ke Google'])[1]/following::button[1]</value>
+      <webElementGuid>f32c4b2a-5064-40da-b300-d80643945d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::button[1]</value>
+      <webElementGuid>7d8a0efb-54c3-449f-a0ce-24561d8d8534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tetap logout']/parent::*</value>
+      <webElementGuid>68483e60-afa7-4f9d-83ad-f1623381ab3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7540f6a9-cd55-4d8d-8ea3-85aa30883541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tetap logout' or . = 'Tetap logout')]</value>
+      <webElementGuid>15de7d67-ca06-43de-881b-61542e7fc55c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

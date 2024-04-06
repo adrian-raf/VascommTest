@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SemuaGambarVideoShoppingBerita.Lu57idco_b56bf4</name>
+   <tag></tag>
+   <elementGuidId>ba1d17c4-c8dd-4294-a006-d6b236cee4da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.PHj8of.J1AhHd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hdtb-sc']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8786ac6b-8ee9-40b3-949d-9feb086994ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PHj8of J1AhHd</value>
+      <webElementGuid>3223efd5-8f0a-44f9-b155-fbcb4ad08a9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SemuaGambarVideoShoppingBerita.Lu57id{color:#9aa0a6;display:flex;align-items:center;column-gap:2px;font-family:Google Sans,arial,sans-serif-medium,sans-serif;padding:2px 8px 0 12px;border-radius:12px;height:30px;background-color:#202124}.SF7xd{display:inline-flex;}.CzKhHb{display:inline-flex;align-items:center}.pkWBse{box-shadow:1px 1px 15px 0px #171717}.pkWBse{border-radius:8px}.UjBGL{display:block}.CcNe6e{cursor:pointer;display:inline-block}.iRQHZe{position:absolute}.Qaqu5{position:relative}.shnMoc.CcNe6e{display:block}.v4Zpbe.CcNe6e{display:-webkit-box;display:-webkit-flex;display:flex;height:100%;width:100%}LainnyaBukuMapsPenerbanganKeuanganAlatGajiTugasContohPDFEngineer adalahJobMateriPptElemen elemen</value>
+      <webElementGuid>9949b797-635d-4912-a898-67cdd14e31dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hdtb-sc&quot;)/div[@class=&quot;PHj8of J1AhHd&quot;]</value>
+      <webElementGuid>a4331f3a-f086-4ca8-ab38-04da352e4463</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hdtb-sc']/div</value>
+      <webElementGuid>90a01b23-cd40-48b9-a2e7-71f2aed41184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter dan Topik'])[1]/following::div[1]</value>
+      <webElementGuid>f881880e-6446-479b-8ac2-6e24aab500a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[20]</value>
+      <webElementGuid>231b2177-8b1c-4316-875e-11fc47ae2d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>4d1c2702-7c85-4b3d-9daf-7e5bbd410e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SemuaGambarVideoShoppingBerita.Lu57id{color:#9aa0a6;display:flex;align-items:center;column-gap:2px;font-family:Google Sans,arial,sans-serif-medium,sans-serif;padding:2px 8px 0 12px;border-radius:12px;height:30px;background-color:#202124}.SF7xd{display:inline-flex;}.CzKhHb{display:inline-flex;align-items:center}.pkWBse{box-shadow:1px 1px 15px 0px #171717}.pkWBse{border-radius:8px}.UjBGL{display:block}.CcNe6e{cursor:pointer;display:inline-block}.iRQHZe{position:absolute}.Qaqu5{position:relative}.shnMoc.CcNe6e{display:block}.v4Zpbe.CcNe6e{display:-webkit-box;display:-webkit-flex;display:flex;height:100%;width:100%}LainnyaBukuMapsPenerbanganKeuanganAlatGajiTugasContohPDFEngineer adalahJobMateriPptElemen elemen' or . = 'SemuaGambarVideoShoppingBerita.Lu57id{color:#9aa0a6;display:flex;align-items:center;column-gap:2px;font-family:Google Sans,arial,sans-serif-medium,sans-serif;padding:2px 8px 0 12px;border-radius:12px;height:30px;background-color:#202124}.SF7xd{display:inline-flex;}.CzKhHb{display:inline-flex;align-items:center}.pkWBse{box-shadow:1px 1px 15px 0px #171717}.pkWBse{border-radius:8px}.UjBGL{display:block}.CcNe6e{cursor:pointer;display:inline-block}.iRQHZe{position:absolute}.Qaqu5{position:relative}.shnMoc.CcNe6e{display:block}.v4Zpbe.CcNe6e{display:-webkit-box;display:-webkit-flex;display:flex;height:100%;width:100%}LainnyaBukuMapsPenerbanganKeuanganAlatGajiTugasContohPDFEngineer adalahJobMateriPptElemen elemen')]</value>
+      <webElementGuid>83f26882-75be-42eb-9be6-977c76a1fe3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
